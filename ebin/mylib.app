@@ -1,7 +1,0 @@
-{application,mylib,
-             [{description,"An Erlang mylib library"},
-              {vsn,"1"},
-              {modules,[mylib]},
-              {registered,[]},
-              {applications,[kernel,stdlib]},
-              {env,[]}]}.
